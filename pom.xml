@@ -21,6 +21,12 @@
     <guava.version>r09</guava.version>
 	</properties>
 
+  <scm>
+    <connection>scm:git:git@github.com:datasift/HBaseWD.git</connection>
+    <url>scm:git:git@github.com:datasift/HBaseWD.git</url>
+    <developerConnection>scm:git:git@github.com:datasift/HBaseWD.git</developerConnection>
+  </scm>
+
 	<repositories>
 		<repository>
 			<id>cloudera</id>
